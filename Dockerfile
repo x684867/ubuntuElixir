@@ -1,11 +1,9 @@
 # Docker Container for ubuntuElixir
 # (c) 2014 EdgeCase, Inc.  sam@edgecase.io
 # 
-#FROM scratch
 FROM x684867/ubuntucore14.04
 MAINTAINER Sam Caldwell <mail@samcaldwell.net>
 
-#ADD files/udev.sh /usr/bin/fake-udev
 
 ENV DEBIAN_FRONTEND noninteractive
 
