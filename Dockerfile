@@ -4,7 +4,6 @@
 FROM x684867/ubuntucore14.04
 MAINTAINER Sam Caldwell <mail@samcaldwell.net>
 
-
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN \
