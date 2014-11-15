@@ -4,6 +4,9 @@ ubuntuElixir
 Objectives:
     (1) To establish a uniform docker base image for Elixir based on the Ubuntu operating system from which others can develop Elixir projects for rapid deployment as Docker containers.
 
+    (2) This docker base image is only an elixir installation.
+
+
 Usage:
     To use this image:
 
